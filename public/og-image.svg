@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#8B1A1A"/>
+  <text x="80" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#F5F5F5">RONALDO</text>
+  <text x="80" y="350" font-family="Arial, sans-serif" font-size="32" fill="#9CA3AF">Atleta de Judô  Academia Corpo Arte</text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="24" fill="#8B1A1A">Brasília, DF · Sub-15</text>
+  <circle cx="1000" cy="315" r="120" fill="#1A1A1A" stroke="#8B1A1A" stroke-width="4"/>
+  <circle cx="1000" cy="315" r="60" fill="#8B1A1A"/>
+</svg>

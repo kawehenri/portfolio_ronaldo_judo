@@ -1,0 +1,32 @@
+{
+  "name": "Ronaldo",
+  "category": "Judô — Sub-15",
+  "tagline": "13 anos. Brasiliense. Disciplina e alto rendimento no tatame.",
+  "age": 13,
+  "origin": "Brasília, DF",
+  "bio": "Atleta de judô de alto rendimento, representando a Academia Corpo Arte. Com trajetória marcada por dedicação, respeito e busca constante por excelência competitiva.",
+  "history": "Iniciou no judô aos 2 anos de idade na escolinha. Em 2022, com 9 anos, passou a treinar de fato na Academia Corpo Arte, onde desenvolve sua carreira competitiva com resultados expressivos em campeonatos regionais e nacionais.",
+  "values": ["Disciplina", "Respeito", "Determinação", "Espírito esportivo", "Humildade"],
+  "goals": [
+    { "text": "Campeão regional em Campo Verde (MT) — Ouro 1º lugar", "status": "achieved" },
+    { "text": "Campeonato Brasileiro Nacional — Aracaju (SE) — Bronze 3º lugar", "status": "achieved" },
+    { "text": "Campeão do JEBS Nacional 2026 (categoria ouro)", "status": "in_progress" },
+    { "text": "Participar de Pan-Americano e Sul-Americano", "status": "planned" },
+    { "text": "Campeão do ranking de Brasília", "status": "in_progress" }
+  ],
+  "contact": {
+    "whatsapp": "+5561984346471",
+    "email": "ranareiss@gmail.com",
+    "instagram": ""
+  },
+  "technical": {
+    "category": "Sub-15",
+    "belt": "A definir",
+    "weight": "A definir",
+    "height": "A definir",
+    "club": "Academia Corpo Arte",
+    "city": "Brasília, DF",
+    "federation": "CBJ / Femeju"
+  },
+  "cvPdf": "portfolio-ronaldo.pdf"
+}

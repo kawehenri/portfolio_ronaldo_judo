@@ -1,0 +1,63 @@
+[
+  {
+    "id": "tl-1",
+    "year": 2013,
+    "title": "Primeiro contato com o judô",
+    "description": "Iniciou no judô aos 2 anos de idade na escolinha, desenvolvendo os primeiros fundamentos do esporte.",
+    "type": "start"
+  },
+  {
+    "id": "tl-2",
+    "year": 2022,
+    "title": "Entrada na Academia Corpo Arte",
+    "description": "Com 9 anos, passou a treinar de fato na Academia Corpo Arte, iniciando a carreira competitiva de alto rendimento.",
+    "type": "milestone"
+  },
+  {
+    "id": "tl-3",
+    "year": 2025,
+    "month": "Março",
+    "title": "Bronze no Brasileiro Regional",
+    "description": "Medalha de bronze Sub-13 no Campeonato Brasileiro Regional em Ji-Paraná, RO.",
+    "type": "achievement"
+  },
+  {
+    "id": "tl-4",
+    "year": 2025,
+    "month": "Setembro",
+    "title": "Bronze na Copa Minas",
+    "description": "Medalha de bronze Sub-13 na Copa Minas de Judô em Belo Horizonte, MG.",
+    "type": "achievement"
+  },
+  {
+    "id": "tl-5",
+    "year": 2025,
+    "month": "Outubro",
+    "title": "Brasileiro Nacional — João Pessoa",
+    "description": "7º lugar no Campeonato Brasileiro Nacional em João Pessoa, PB.",
+    "type": "achievement"
+  },
+  {
+    "id": "tl-6",
+    "year": 2026,
+    "title": "Mudança para categoria Sub-15",
+    "description": "Transição para a categoria Sub-15 com resultados expressivos em competições nacionais e regionais.",
+    "type": "category"
+  },
+  {
+    "id": "tl-7",
+    "year": 2026,
+    "month": "Março",
+    "title": "Ouro no Brasileiro Regional",
+    "description": "Campeão Sub-15 no Campeonato Brasileiro Regional em Campo Verde, MT.",
+    "type": "achievement"
+  },
+  {
+    "id": "tl-8",
+    "year": 2026,
+    "month": "Maio",
+    "title": "Bronze no Brasileiro Nacional",
+    "description": "Medalha de bronze Sub-15 no Campeonato Brasileiro Nacional em Aracaju, SE.",
+    "type": "achievement"
+  }
+]

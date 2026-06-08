@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gal-inicio-trajetoria-1",
+    "src": "/media/inicio-trajetoria/01.webp",
+    "alt": "Início da trajetória — foto 1",
+    "category": "treinos"
+  },
+  {
+    "id": "gal-inicio-trajetoria-2",
+    "src": "/media/inicio-trajetoria/02.webp",
+    "alt": "Início da trajetória — foto 2",
+    "category": "treinos"
+  },
+  {
+    "id": "gal-brasileiro-2025-joaopessoa-1",
+    "src": "/media/brasileiro-2025-joaopessoa/01.webp",
+    "alt": "Brasileiro Nacional 2025 — João Pessoa — foto 1",
+    "category": "competicoes"
+  },
+  {
+    "id": "gal-brasileiro-2025-joaopessoa-2",
+    "src": "/media/brasileiro-2025-joaopessoa/02.webp",
+    "alt": "Brasileiro Nacional 2025 — João Pessoa — foto 2",
+    "category": "competicoes"
+  },
+  {
+    "id": "gal-brasileiro-2025-joaopessoa-3",
+    "src": "/media/brasileiro-2025-joaopessoa/03.webp",
+    "alt": "Brasileiro Nacional 2025 — João Pessoa — foto 3",
+    "category": "competicoes"
+  },
+  {
+    "id": "gal-regional-2025-jiparana-1",
+    "src": "/media/regional-2025-jiparana/01.webp",
+    "alt": "Brasileiro Regional 2025 — Ji-Paraná (Bronze) — foto 1",
+    "category": "podios"
+  },
+  {
+    "id": "gal-regional-2025-jiparana-2",
+    "src": "/media/regional-2025-jiparana/02.webp",
+    "alt": "Brasileiro Regional 2025 — Ji-Paraná (Bronze) — foto 2",
+    "category": "podios"
+  },
+  {
+    "id": "gal-regional-2025-jiparana-3",
+    "src": "/media/regional-2025-jiparana/03.webp",
+    "alt": "Brasileiro Regional 2025 — Ji-Paraná (Bronze) — foto 3",
+    "category": "podios"
+  },
+  {
+    "id": "gal-regional-2025-jiparana-4",
+    "src": "/media/regional-2025-jiparana/04.webp",
+    "alt": "Brasileiro Regional 2025 — Ji-Paraná (Bronze) — foto 4",
+    "category": "podios"
+  },
+  {
+    "id": "gal-regional-2026-matogrosso-1",
+    "src": "/media/regional-2026-matogrosso/01.webp",
+    "alt": "Brasileiro Regional 2026 — Campo Verde (Ouro) — foto 1",
+    "category": "podios"
+  },
+  {
+    "id": "gal-regional-2026-matogrosso-2",
+    "src": "/media/regional-2026-matogrosso/02.webp",
+    "alt": "Brasileiro Regional 2026 — Campo Verde (Ouro) — foto 2",
+    "category": "podios"
+  },
+  {
+    "id": "gal-brasileiro-2026-aracaju-1",
+    "src": "/media/brasileiro-2026-aracaju/01.webp",
+    "alt": "Brasileiro Nacional 2026 — Aracaju (Bronze) — foto 1",
+    "category": "podios"
+  },
+  {
+    "id": "gal-brasileiro-2026-aracaju-2",
+    "src": "/media/brasileiro-2026-aracaju/02.webp",
+    "alt": "Brasileiro Nacional 2026 — Aracaju (Bronze) — foto 2",
+    "category": "podios"
+  },
+  {
+    "id": "gal-brasileiro-2026-aracaju-3",
+    "src": "/media/brasileiro-2026-aracaju/03.webp",
+    "alt": "Brasileiro Nacional 2026 — Aracaju (Bronze) — foto 3",
+    "category": "podios"
+  },
+  {
+    "id": "gal-brasileiro-2026-aracaju-4",
+    "src": "/media/brasileiro-2026-aracaju/04.webp",
+    "alt": "Brasileiro Nacional 2026 — Aracaju (Bronze) — foto 4",
+    "category": "podios"
+  },
+  {
+    "id": "gal-brasileiro-2026-aracaju-5",
+    "src": "/media/brasileiro-2026-aracaju/05.webp",
+    "alt": "Brasileiro Nacional 2026 — Aracaju (Bronze) — foto 5",
+    "category": "podios"
+  },
+  {
+    "id": "gal-copa-minas-2025-bh-1",
+    "src": "/media/copa-minas-2025-bh/01.webp",
+    "alt": "Copa Minas 2025 — Belo Horizonte (Bronze) — foto 1",
+    "category": "podios"
+  },
+  {
+    "id": "gal-copa-minas-2025-bh-2",
+    "src": "/media/copa-minas-2025-bh/02.webp",
+    "alt": "Copa Minas 2025 — Belo Horizonte (Bronze) — foto 2",
+    "category": "podios"
+  },
+  {
+    "id": "gal-copa-minas-2025-bh-3",
+    "src": "/media/copa-minas-2025-bh/03.webp",
+    "alt": "Copa Minas 2025 — Belo Horizonte (Bronze) — foto 3",
+    "category": "podios"
+  },
+  {
+    "id": "gal-copa-minas-2025-bh-4",
+    "src": "/media/copa-minas-2025-bh/04.webp",
+    "alt": "Copa Minas 2025 — Belo Horizonte (Bronze) — foto 4",
+    "category": "podios"
+  },
+  {
+    "id": "gal-equipes-amizades-1",
+    "src": "/media/equipes-amizades/01.webp",
+    "alt": "Equipe e amizades — foto 1",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-equipes-amizades-2",
+    "src": "/media/equipes-amizades/02.webp",
+    "alt": "Equipe e amizades — foto 2",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-equipes-amizades-3",
+    "src": "/media/equipes-amizades/03.webp",
+    "alt": "Equipe e amizades — foto 3",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-equipes-amizades-4",
+    "src": "/media/equipes-amizades/04.webp",
+    "alt": "Equipe e amizades — foto 4",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-equipes-amizades-5",
+    "src": "/media/equipes-amizades/05.webp",
+    "alt": "Equipe e amizades — foto 5",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-equipes-amizades-6",
+    "src": "/media/equipes-amizades/06.webp",
+    "alt": "Equipe e amizades — foto 6",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-senseis-1",
+    "src": "/media/senseis/01.webp",
+    "alt": "Senseis e mestres — foto 1",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-senseis-2",
+    "src": "/media/senseis/02.webp",
+    "alt": "Senseis e mestres — foto 2",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-certificado-louvor-1",
+    "src": "/media/certificado-louvor/01.webp",
+    "alt": "Certificado de Moção de Louvor — foto 1",
+    "category": "bastidores"
+  },
+  {
+    "id": "gal-certificado-louvor-2",
+    "src": "/media/certificado-louvor/02.webp",
+    "alt": "Certificado de Moção de Louvor — foto 2",
+    "category": "bastidores"
+  }
+]

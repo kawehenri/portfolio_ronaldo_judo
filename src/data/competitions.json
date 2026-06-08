@@ -1,0 +1,52 @@
+[
+  {
+    "id": "comp-1",
+    "year": 2026,
+    "month": "Maio",
+    "name": "Campeonato Brasileiro Nacional",
+    "location": "Aracaju, SE",
+    "result": "Bronze — 3º lugar",
+    "position": "bronze",
+    "category": "Sub-15"
+  },
+  {
+    "id": "comp-2",
+    "year": 2026,
+    "month": "Março",
+    "name": "Campeonato Brasileiro Regional",
+    "location": "Campo Verde, MT",
+    "result": "Ouro — 1º lugar",
+    "position": "gold",
+    "category": "Sub-15"
+  },
+  {
+    "id": "comp-3",
+    "year": 2025,
+    "month": "Outubro",
+    "name": "Campeonato Brasileiro Nacional",
+    "location": "João Pessoa, PB",
+    "result": "7º lugar",
+    "position": "other",
+    "category": "Sub-13"
+  },
+  {
+    "id": "comp-4",
+    "year": 2025,
+    "month": "Setembro",
+    "name": "Copa Minas de Judô",
+    "location": "Belo Horizonte, MG",
+    "result": "Bronze — 3º lugar",
+    "position": "bronze",
+    "category": "Sub-13"
+  },
+  {
+    "id": "comp-5",
+    "year": 2025,
+    "month": "Março",
+    "name": "Campeonato Brasileiro Regional",
+    "location": "Ji-Paraná, RO",
+    "result": "Bronze — 3º lugar",
+    "position": "bronze",
+    "category": "Sub-13"
+  }
+]

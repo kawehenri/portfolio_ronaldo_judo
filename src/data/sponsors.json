@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sp-1",
+    "name": "R4 Brasília Automóveis",
+    "type": "patrocinador",
+    "logo": "/media/apoiadores/05.webp"
+  },
+  {
+    "id": "sp-2",
+    "name": "Compete Brasília",
+    "type": "parceiro",
+    "logo": "/media/apoiadores/04.webp"
+  },
+  {
+    "id": "sp-3",
+    "name": "Academia Corpo Arte",
+    "type": "apoiador",
+    "logo": "/media/apoiadores/01.webp"
+  },
+  {
+    "id": "sp-4",
+    "name": "CBJ",
+    "type": "apoiador",
+    "logo": "/media/apoiadores/02.webp"
+  },
+  {
+    "id": "sp-5",
+    "name": "Femeju",
+    "type": "apoiador",
+    "logo": "/media/apoiadores/03.webp"
+  }
+]

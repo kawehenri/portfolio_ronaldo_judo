@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ach-1",
+    "title": "Campeonato Brasileiro Regional 2026",
+    "year": 2026,
+    "type": "campeonato",
+    "location": "Campo Verde, MT",
+    "result": "Ouro — 1º lugar Sub-15",
+    "description": "Conquista do título de campeão no Campeonato Brasileiro Regional, consolidando a transição para a categoria Sub-15 com performance de destaque.",
+    "image": "/media/regional-2026-matogrosso/01.webp"
+  },
+  {
+    "id": "ach-2",
+    "title": "Campeonato Brasileiro Nacional 2026",
+    "year": 2026,
+    "type": "medalha",
+    "location": "Aracaju, SE",
+    "result": "Bronze — 3º lugar Sub-15",
+    "description": "Medalha de bronze no Campeonato Brasileiro Nacional, um dos principais torneios do calendário judoca brasileiro.",
+    "image": "/media/brasileiro-2026-aracaju/01.webp"
+  },
+  {
+    "id": "ach-3",
+    "title": "Copa Minas de Judô 2025",
+    "year": 2025,
+    "type": "medalha",
+    "location": "Belo Horizonte, MG",
+    "result": "Bronze — 3º lugar Sub-13",
+    "description": "Medalha de bronze na Copa Minas, competição de alto nível com atletas de todo o país.",
+    "image": "/media/copa-minas-2025-bh/01.webp"
+  },
+  {
+    "id": "ach-4",
+    "title": "Campeonato Brasileiro Regional 2025",
+    "year": 2025,
+    "type": "medalha",
+    "location": "Ji-Paraná, RO",
+    "result": "Bronze — 3º lugar Sub-13",
+    "description": "Primeira medalha em campeonato brasileiro regional, marco importante no início da trajetória competitiva.",
+    "image": "/media/regional-2025-jiparana/01.webp"
+  },
+  {
+    "id": "ach-5",
+    "title": "Campeonato Brasileiro Nacional 2025",
+    "year": 2025,
+    "type": "campeonato",
+    "location": "João Pessoa, PB",
+    "result": "7º lugar",
+    "description": "Participação no Campeonato Brasileiro Nacional, experiência fundamental para evolução técnica e mental.",
+    "image": "/media/brasileiro-2025-joaopessoa/01.webp"
+  },
+  {
+    "id": "ach-6",
+    "title": "Certificado de Moção de Louvor",
+    "year": 2025,
+    "type": "premiacao",
+    "location": "Brasília, DF",
+    "result": "Reconhecimento especial",
+    "description": "Certificado especial de moção de louvor pelo desempenho e dedicação ao esporte.",
+    "image": "/media/certificado-louvor/01.webp"
+  }
+]

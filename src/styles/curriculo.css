@@ -1,0 +1,57 @@
+/* Currículo ATS — layout limpo para leitura humana e por IA */
+
+.curriculo-page {
+  font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  line-height: 1.5;
+}
+
+.curriculo-page h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.curriculo-page h2 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #8b1a1a;
+  border-bottom: 2px solid #8b1a1a;
+  padding-bottom: 0.35rem;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.curriculo-page p,
+.curriculo-page li {
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.curriculo-page ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.curriculo-page li {
+  margin-bottom: 0.35rem;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .curriculo-page {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 1.5cm;
+    size: A4;
+  }
+}
