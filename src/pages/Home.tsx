@@ -1,3 +1,4 @@
+import { VideoSection } from '../sections/VideoSection'
 import { AboutSection } from '../sections/AboutSection'
 import { AchievementsSection } from '../sections/AchievementsSection'
 import { ContactSection } from '../sections/ContactSection'
@@ -19,6 +20,7 @@ export function Home() {
       <AchievementsSection />
       <ResultsSection />
       <GallerySection />
+      <VideoSection />
       <TechnicalSection />
       <SponsorsSection />
       <ContactSection />

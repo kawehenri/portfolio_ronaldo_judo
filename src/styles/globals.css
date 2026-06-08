@@ -37,3 +37,10 @@
     @apply mx-auto max-w-7xl;
   }
 }
+
+.instagram-embed-wrapper iframe {
+  max-width: 100% !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 auto !important;
+}

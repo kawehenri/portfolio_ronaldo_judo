@@ -8,6 +8,7 @@ export const navItems: NavItem[] = [
   { id: 'conquistas', label: 'Conquistas' },
   { id: 'resultados', label: 'Resultados' },
   { id: 'galeria', label: 'Galeria' },
+  { id: 'video', label: 'Vídeo' },
   { id: 'perfil', label: 'Perfil' },
   { id: 'patrocinadores', label: 'Patrocinadores' },
   { id: 'contato', label: 'Contato' },
