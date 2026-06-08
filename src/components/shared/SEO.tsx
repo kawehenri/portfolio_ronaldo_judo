@@ -13,7 +13,7 @@ export function SEO({
   title = 'Ronaldo — Atleta de Judô',
   description = 'Portfólio profissional de Ronaldo, atleta de judô de alto rendimento da Academia Corpo Arte, Brasília.',
   image = imagePath(images.og),
-  url = 'https://seu-usuario.github.io/portfolio_ronaldo/',
+  url = 'https://kawehenri.github.io/portfolio_ronaldo_judo/',
 }: SEOProps) {
   return (
     <Helmet>

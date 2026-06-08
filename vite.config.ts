@@ -3,8 +3,10 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-export default defineConfig({
-  base: process.env.GITHUB_PAGES === 'true' ? '/portfolio_ronaldo/' : '/',
+const REPO_BASE = '/portfolio_ronaldo_judo/'
+
+export default defineConfig(({ mode }) => ({
+  base: mode === 'gh-pages' ? REPO_BASE : '/',
   plugins: [
     react(),
     tailwindcss(),
@@ -16,4 +18,4 @@ export default defineConfig({
       },
     },
   ],
-})
+}))
