@@ -77,7 +77,11 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t border-white/10 pt-8 text-center text-sm text-muted">
-          © {year} Ronaldo. Todos os direitos reservados.
+          <p>© {year} Ronaldo. Todos os direitos reservados.</p>
+          <p className="mt-2">
+            Desenvolvido por{' '}
+            <span className="text-text/80">Kawê Henrique</span>
+          </p>
         </div>
       </div>
     </footer>
