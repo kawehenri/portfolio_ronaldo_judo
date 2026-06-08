@@ -19,6 +19,7 @@ export interface Athlete {
   category: string
   tagline: string
   age: number
+  birthYear?: number
   origin: string
   bio: string
   history: string

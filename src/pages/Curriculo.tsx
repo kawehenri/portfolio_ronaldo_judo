@@ -93,6 +93,15 @@ export function Curriculo() {
               <strong>Categoria:</strong> {data.technical.category}
             </li>
             <li>
+              <strong>Faixa:</strong> {data.technical.belt}
+            </li>
+            <li>
+              <strong>Peso:</strong> {data.technical.weight}
+            </li>
+            <li>
+              <strong>Altura:</strong> {data.technical.height}
+            </li>
+            <li>
               <strong>Clube:</strong> {data.technical.club}
             </li>
             <li>
@@ -102,7 +111,7 @@ export function Curriculo() {
               <strong>Federação:</strong> {data.technical.federation}
             </li>
             <li>
-              <strong>Carreira competitiva:</strong> {stats.careerYears} anos (desde 2022)
+              <strong>Carreira competitiva:</strong> {stats.careerYears} anos (desde 2024)
             </li>
           </ul>
         </section>

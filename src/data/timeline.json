@@ -2,19 +2,40 @@
   {
     "id": "tl-1",
     "year": 2013,
-    "title": "Primeiro contato com o judô",
-    "description": "Iniciou no judô aos 2 anos de idade na escolinha, desenvolvendo os primeiros fundamentos do esporte.",
-    "type": "start"
-  },
-  {
-    "id": "tl-2",
-    "year": 2022,
-    "title": "Entrada na Academia Corpo Arte",
-    "description": "Com 9 anos, passou a treinar de fato na Academia Corpo Arte, iniciando a carreira competitiva de alto rendimento.",
+    "title": "Nascimento",
+    "description": "Nasceu em Brasília, DF, iniciando sua trajetória com o esporte desde cedo.",
     "type": "milestone"
   },
   {
+    "id": "tl-2",
+    "year": 2015,
+    "title": "Primeiro contato com o judô",
+    "description": "Aos 2 anos de idade, teve o primeiro contato com o judô na escolinha, desenvolvendo os primeiros fundamentos do esporte.",
+    "type": "start"
+  },
+  {
     "id": "tl-3",
+    "year": 2022,
+    "title": "Entrada na Academia Corpo Arte",
+    "description": "Com 9 anos, passou a treinar de fato na Academia Corpo Arte, consolidando a formação técnica no judô.",
+    "type": "milestone"
+  },
+  {
+    "id": "tl-4",
+    "year": 2024,
+    "title": "Início das competições",
+    "description": "Passou a competir oficialmente, iniciando a carreira competitiva de alto rendimento.",
+    "type": "milestone"
+  },
+  {
+    "id": "tl-5",
+    "year": 2025,
+    "title": "Primeiras medalhas",
+    "description": "Conquistou as primeiras medalhas em campeonatos oficiais, marco decisivo na trajetória competitiva.",
+    "type": "achievement"
+  },
+  {
+    "id": "tl-6",
     "year": 2025,
     "month": "Março",
     "title": "Bronze no Brasileiro Regional",
@@ -22,7 +43,7 @@
     "type": "achievement"
   },
   {
-    "id": "tl-4",
+    "id": "tl-7",
     "year": 2025,
     "month": "Setembro",
     "title": "Bronze na Copa Minas",
@@ -30,7 +51,7 @@
     "type": "achievement"
   },
   {
-    "id": "tl-5",
+    "id": "tl-8",
     "year": 2025,
     "month": "Outubro",
     "title": "Brasileiro Nacional — João Pessoa",
@@ -38,14 +59,14 @@
     "type": "achievement"
   },
   {
-    "id": "tl-6",
+    "id": "tl-9",
     "year": 2026,
     "title": "Mudança para categoria Sub-15",
     "description": "Transição para a categoria Sub-15 com resultados expressivos em competições nacionais e regionais.",
     "type": "category"
   },
   {
-    "id": "tl-7",
+    "id": "tl-10",
     "year": 2026,
     "month": "Março",
     "title": "Ouro no Brasileiro Regional",
@@ -53,7 +74,7 @@
     "type": "achievement"
   },
   {
-    "id": "tl-8",
+    "id": "tl-11",
     "year": 2026,
     "month": "Maio",
     "title": "Bronze no Brasileiro Nacional",

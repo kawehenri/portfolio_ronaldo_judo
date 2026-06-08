@@ -3,9 +3,10 @@
   "category": "Judô — Sub-15",
   "tagline": "13 anos. Brasiliense. Disciplina e alto rendimento no tatame.",
   "age": 13,
+  "birthYear": 2013,
   "origin": "Brasília, DF",
-  "bio": "Atleta de judô de alto rendimento, representando a Academia Corpo Arte. Com trajetória marcada por dedicação, respeito e busca constante por excelência competitiva.",
-  "history": "Iniciou no judô aos 2 anos de idade na escolinha. Em 2022, com 9 anos, passou a treinar de fato na Academia Corpo Arte, onde desenvolve sua carreira competitiva com resultados expressivos em campeonatos regionais e nacionais.",
+  "bio": "Atleta de judô de alto rendimento, representando a Academia Corpo Arte. Nascido em 2013, com trajetória marcada por dedicação, respeito e busca constante por excelência competitiva.",
+  "history": "Nasceu em 2013 em Brasília. Teve o primeiro contato com o judô em 2015, na escolinha. Em 2022, passou a treinar de fato na Academia Corpo Arte. Iniciou a vida competitiva em 2024 e conquistou suas primeiras medalhas em 2025, evoluindo rapidamente em campeonatos regionais e nacionais.",
   "values": ["Disciplina", "Respeito", "Determinação", "Espírito esportivo", "Humildade"],
   "goals": [
     { "text": "Campeão regional em Campo Verde (MT) — Ouro 1º lugar", "status": "achieved" },
@@ -21,9 +22,9 @@
   },
   "technical": {
     "category": "Sub-15",
-    "belt": "A definir",
-    "weight": "A definir",
-    "height": "A definir",
+    "belt": "Verde",
+    "weight": "+81 kg",
+    "height": "1,79 m",
     "club": "Academia Corpo Arte",
     "city": "Brasília, DF",
     "federation": "CBJ / Femeju"
