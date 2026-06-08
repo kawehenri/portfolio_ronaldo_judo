@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kawehenri.github.io/portfolio_ronaldo_judo/sitemap.xml
+Sitemap: https://ronaldojudo.site/sitemap.xml

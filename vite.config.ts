@@ -3,10 +3,9 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-const REPO_BASE = '/portfolio_ronaldo_judo/'
-
 export default defineConfig(({ mode }) => ({
-  base: mode === 'gh-pages' ? REPO_BASE : '/',
+  // Com domínio customizado (ronaldojudo.site) o site é servido na raiz /
+  base: mode === 'gh-pages' ? '/' : '/',
   plugins: [
     react(),
     tailwindcss(),

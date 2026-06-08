@@ -68,21 +68,42 @@ Para alterar o fundo escuro do hero, edite `heroBackground` em `src/data/images.
 npm run deploy
 ```
 
-### Ajustar base path
+### Domínio próprio — ronaldojudo.site
 
-Se o repositório tiver outro nome, altere em `vite.config.ts`:
+O arquivo `public/CNAME` já contém o domínio. Após o deploy:
 
-```ts
-base: '/nome-do-repositorio/'
-```
+**1. GitHub (repositório `portfolio_ronaldo_judo`)**
 
-### Domínio próprio
+1. Acesse [Settings → Pages](https://github.com/kawehenri/portfolio_ronaldo_judo/settings/pages)
+2. Em **Custom domain**, digite: `ronaldojudo.site`
+3. Salve e aguarde a verificação DNS (pode levar até 24h, geralmente minutos)
+4. Quando aparecer, marque **Enforce HTTPS**
 
-Crie `public/CNAME` com seu domínio:
+**2. Hostinger (DNS)**
 
-```
-www.seudominio.com.br
-```
+No hPanel: **Domínios** → **ronaldojudo.site** → **DNS / Zona DNS**
+
+Remova registros conflitantes do tipo `@` (A ou CNAME antigos) e adicione **4 registros A**:
+
+| Tipo | Nome | Valor | TTL |
+|------|------|-------|-----|
+| A | @ | `185.199.108.153` | 14400 |
+| A | @ | `185.199.109.153` | 14400 |
+| A | @ | `185.199.110.153` | 14400 |
+| A | @ | `185.199.111.153` | 14400 |
+
+Opcional (IPv6) — registros **AAAA** com `@`:
+
+- `2606:50c0:8000::153`
+- `2606:50c0:8001::153`
+- `2606:50c0:8002::153`
+- `2606:50c0:8003::153`
+
+**3. Testar**
+
+Após propagar o DNS, acesse: **https://ronaldojudo.site**
+
+Site antigo (subpath): `https://kawehenri.github.io/portfolio_ronaldo_judo/` — deixa de ser o endereço principal após o domínio ativo.
 
 ## Build de produção
 
